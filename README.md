@@ -1,4 +1,4 @@
-# Binance Trader (RC 2)
+# Binance Trader (RC 2) - Fork from [@yasinkuyu](https://twitter.com/yasinkuyu) to develop!
 
 This is an experimental bot for auto trading the binance.com exchange. [@yasinkuyu](https://twitter.com/yasinkuyu)
 
